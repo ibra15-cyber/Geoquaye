@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-h7a2z+42k%1esq%2$=lzva02di@5-cl=&r$igl1cnvf)_m67t*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'geoquayewma.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'geoquaye-whm.herokuapp.com']
 
 
 # Application definition
